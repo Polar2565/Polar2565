@@ -36,31 +36,33 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**Sentinel Vision AI**](https://github.com/Polar2565/SentinelVisionAI) | Executive dashboard with specialized AI agents, Angular, Node.js, and Ollama. Scored **83.1/100** and ranked **13th out of 111** at the 2026 Agentic AI Hackathon. |
-| [**LOBO I · CanSat**](https://github.com/Polar2565/LOBO-I-CanSat) | Real telemetry system using Raspberry Pi Pico, environmental sensors, LoRa, Node.js, and Socket.IO. Won **2nd place** in the 2025 Space Missions competition. |
+| [**Sentinel Vision AI**](https://github.com/Polar2565/SentinelVisionAI) | Executive dashboard with specialized AI agents, Angular, Node.js, and Ollama, created for the **VisualLogic Dashboards (Dashboard Agent)** challenge. Competed nationally against students from across Mexico after technical training delivered through the Salesforce and Iberoamerican Technology Foundation program. Scored **83.1/100** and ranked **13th out of 111 projects**. |
+| [**LOBO I · CanSat**](https://github.com/Polar2565/LOBO-I-CanSat) | Real telemetry system using Raspberry Pi Pico, environmental sensors, LoRa, Node.js, and Socket.IO. Won **2nd place** in the state-level 2025 Space Missions competition supported by IEEE Section Aguascalientes, IEA, CIMAT, and partner universities. |
 | [**ClandBus ERP Integration Platform**](https://github.com/Polar2565/clandbus-erp-integration-dashboard) | Enterprise dashboard built with Angular and ASP.NET Core, featuring a secure integration layer for Acumatica ERP. |
 | [**SOL RUNNER**](https://github.com/Polar2565/SOL-RUNNER) | Browser-based roguelite arena using Canvas, Express, Phantom Wallet, and transactions on Solana Devnet. Reached the **Top 10** in the Solana LATAM selection process and was selected for incubation after passing the interview and business-viability review. **Current status:** development paused. |
 | [**TlalokFlix**](https://github.com/Polar2565/TlalokFlix) | Mood-based movie recommendation app built with React Native, Expo, Node.js, SQL Server, TMDB, and Ollama. |
 
-## Awards and hackathons
+## Competitive innovation and achievements
 
-| Year | Event | Project or result |
+These were not open-attendance events. Several required application screening, technical training, examinations, interviews, or jury review before reaching a national or in-person stage.
+
+| Year | Competition and scope | Selection, project, and result |
 | --- | --- | --- |
-| **2026** | Agentic AI Hackathon | **Sentinel Vision AI** — excellent evaluation, **83.1/100**, and **13th place out of 111 projects**. |
-| **2026** | Solana LATAM Hackathon | **SOL RUNNER** — ranked **Top 10** within a 50-project selection process, passed the interview and business-viability review, and was **selected for the project incubator**. Development is currently paused. |
-| **2026** | CodeCup | **Ghost Prism** — technology concept designed to support attendee safety at large events. |
-| **2026** | Tiendas 3B Hackathon | Participated in the corporate innovation challenge held on **March 21, 2026**; official participation certificate. |
-| **2025** | Space Missions Competition | **LOBO I CanSat** — **2nd place** at the Young People in Engineering and Space Meeting. |
-| **2025** | Interledger Hackathon | **Chambitas** — community services marketplace focused on Open Payments; official participation recognition. |
-| **2024** | Hackathon Ciberseguridad ICPC | **Presentación HidroTalent · Atenea** — team achievement: **2nd place**. |
-| **2024** | HidroTech ICPC | **Gaia** and **MIAA Payment System** — smart irrigation, monitoring, and digital water-management solutions. |
-| **2024** | Venado Tech | **Artemisa** — IoT proposal for livestock monitoring through connected devices and a management dashboard. |
+| **2026** | **National Agentic AI Hackathon** · Salesforce & Iberoamerican Technology Foundation | Completed specialized training in Agentforce, Flows, Knowledge/RAG, event logging, and intelligent escalation before competing with students from across Mexico. **Sentinel Vision AI**, built for the VisualLogic Dashboards challenge, earned **83.1/100** and ranked **13th out of 111 projects**. |
+| **2026** | **Solana LATAM Hackathon** | **SOL RUNNER** reached the **Top 10** within a 50-project selection, passed both the interview and business-viability review, and was **selected for the project incubator**. Development is currently paused, but the selection and validation milestones were completed. |
+| **2026** | [**CodeCup 2026**](https://codecup2026.com/) · Guadalajara | Selected for the advanced phase as **one of four teams in the Safety & Wellbeing track**—part of a 12-team advanced cohort distributed across three tracks. **Ghost Prism** addressed attendee safety for large-scale events in the context of Guadalajara's role as a 2026 World Cup host city. The event brought together UAG, the U.S. Consulate General in Guadalajara, Improving, the Government of Zapopan, and innovation partners. |
+| **2026** | [**Tiendas 3B Hackathon**](https://hackaton3b.com/) · Mexico City | Advanced from approximately **800 applicants to a 75-person final cohort**, organized into **15 teams across three business tracks**—only five teams per track. Participated in the in-person corporate final at Tiendas 3B headquarters on **March 21, 2026**. |
+| **2025** | **Space Missions Competition** · Aguascalientes | **LOBO I CanSat** won **2nd place** at the state-level Young People in Engineering and Space Meeting. The project combined a real CanSat, LoRa telemetry, environmental sensing, parachute tests, and a live ground-station dashboard. The event involved IEEE Section Aguascalientes, IEA, CIMAT, and partner educational institutions. |
+| **2025** | [**Interledger Hackathon**](https://interledger.org/summit/hackathon) · Mexico City | Qualified for the in-person event after completing Open Payments training and passing the required assessment. Built **Chambitas**, a community-services marketplace using Open Payments, during the **24-hour final**, which brought together more than **170 participants and 47 teams**. |
+| **2024** | **Hackathon: Ciberseguridad ICPC** | **Presentación HidroTalent · Atenea** — earned **2nd place as a team** in the cybersecurity challenge. |
+| **2024** | **HidroTech ICPC** | Developed **Gaia** and the **MIAA Payment System**, combining smart irrigation, monitoring, and digital water-management concepts. |
+| **2024** | **Venado Tech** | Developed **Artemisa**, an IoT proposal for livestock monitoring through connected devices and a management dashboard. |
 
 ## Certifications and technical training
 
 - **Solana LATAM Builders Program — Rust** · WayLearn Technologies, supported by Solana Foundation · February–March 2026.
 - **English B2** · Oxford Placement Test · overall score: 69 · July 2024.
-- **AI and Agentforce** · technical training in applied AI and agent development within the Salesforce ecosystem · 2026.
+- **AI and Agentforce** · technical training in applied AI, Agentforce, Flows, Knowledge/RAG, event logging, and intelligent escalation within the Salesforce ecosystem · national program, 2026.
 - Practical experience with **Open Payments and Interledger** through collaborative hackathon development · 2025.
 
 ## Technology stack
