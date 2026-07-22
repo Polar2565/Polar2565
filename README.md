@@ -81,8 +81,8 @@ Hardware       Raspberry Pi Pico · environmental sensors · LoRa · telemetry
 
 ## Education
 
-- **Ingeniería en Desarrollo y Gestión de Software** · Universidad Tecnológica de Aguascalientes · January 2025 – expected August 2026.
-- **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** · Universidad Tecnológica de Aguascalientes · January 2023 – December 2024.
+- **Ingeniería en Desarrollo y Gestión de Software** · Universidad Tecnológica de Aguascalientes · January 2025 – expected August 2026 · **Professional license: in process.**
+- **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** · Universidad Tecnológica de Aguascalientes · January 2023 – December 2024 · **[Cédula Profesional No. 15179981](https://www.gob.mx/cedulaprofesional)**.
 
 ---
 
