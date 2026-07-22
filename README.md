@@ -39,7 +39,7 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 | [**Sentinel Vision AI**](https://github.com/Polar2565/SentinelVisionAI) | Executive dashboard with specialized AI agents, Angular, Node.js, and Ollama. Scored **83.1/100** and ranked **13th out of 111** at the 2026 Agentic AI Hackathon. |
 | [**LOBO I · CanSat**](https://github.com/Polar2565/LOBO-I-CanSat) | Real telemetry system using Raspberry Pi Pico, environmental sensors, LoRa, Node.js, and Socket.IO. Won **2nd place** in the 2025 Space Missions competition. |
 | [**ClandBus ERP Integration Platform**](https://github.com/Polar2565/clandbus-erp-integration-dashboard) | Enterprise dashboard built with Angular and ASP.NET Core, featuring a secure integration layer for Acumatica ERP. |
-| [**SOL RUNNER**](https://github.com/Polar2565/SOL-RUNNER) | Browser-based roguelite arena using Canvas, Express, Phantom Wallet, and transactions on Solana Devnet. |
+| [**SOL RUNNER**](https://github.com/Polar2565/SOL-RUNNER) | Browser-based roguelite arena using Canvas, Express, Phantom Wallet, and transactions on Solana Devnet. Reached the **Top 10** in the Solana LATAM selection process and was selected for incubation after passing the interview and business-viability review. **Current status:** development paused. |
 | [**TlalokFlix**](https://github.com/Polar2565/TlalokFlix) | Mood-based movie recommendation app built with React Native, Expo, Node.js, SQL Server, TMDB, and Ollama. |
 
 ## Awards and hackathons
@@ -47,8 +47,9 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 | Year | Event | Project or result |
 | --- | --- | --- |
 | **2026** | Agentic AI Hackathon | **Sentinel Vision AI** — excellent evaluation, **83.1/100**, and **13th place out of 111 projects**. |
-| **2026** | Solana LATAM Hackathon | Built and presented a project within the Solana ecosystem; official participation recognition. |
+| **2026** | Solana LATAM Hackathon | **SOL RUNNER** — ranked **Top 10** within a 50-project selection process, passed the interview and business-viability review, and was **selected for the project incubator**. Development is currently paused. |
 | **2026** | CodeCup | **Ghost Prism** — technology concept designed to support attendee safety at large events. |
+| **2026** | Tiendas 3B Hackathon | Participated in the corporate innovation challenge held on **March 21, 2026**; official participation certificate. |
 | **2025** | Space Missions Competition | **LOBO I CanSat** — **2nd place** at the Young People in Engineering and Space Meeting. |
 | **2025** | Interledger Hackathon | **Chambitas** — community services marketplace focused on Open Payments; official participation recognition. |
 | **2024** | ITA Cybersecurity Hackathon | Team achievement: **2nd place**. |
