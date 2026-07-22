@@ -1,104 +1,103 @@
-<h1 align="center">Hola, soy Javier Solís Martínez 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Desarrollador de software · Full stack · IA aplicada · Integraciones · Web3 · IoT</strong>
-</p>
+# Javier Solís Martínez
 
-<p align="center">
-  Construyo soluciones que conectan interfaces, APIs, datos, hardware y servicios externos. Me interesa convertir ideas técnicas en productos funcionales, medibles y bien documentados.
-</p>
+### Software Developer · Full-Stack Engineer
 
-<p align="center">
-  <a href="https://linkedin.com/in/javier-solis-23689b315/">
-    <img src="https://img.shields.io/badge/LinkedIn-Javier_Solis-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Polar2565">
-    <img src="https://img.shields.io/badge/GitHub-Polar2565-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+I build reliable products that connect **interfaces, APIs, data, AI, hardware, and external services**.
 
-## Sobre mí
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Solís-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-solis-23689b315/)
+[![GitHub](https://img.shields.io/badge/GitHub-Polar2565-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polar2565)
 
-- Estudiante de Ingeniería en Desarrollo y Gestión de Software en la Universidad Tecnológica de Aguascalientes.
-- Experiencia en aplicaciones empresariales, plataformas web, APIs REST, dashboards y sistemas en tiempo real.
-- He trabajado con IA local, integraciones ERP, blockchain, telemetría y prototipos IoT.
-- Español nativo e inglés **B2**, acreditado mediante Oxford Placement Test.
+![English B2](https://img.shields.io/badge/English-B2-2563EB?style=flat-square)
+![French A2](https://img.shields.io/badge/French-A2-7C3AED?style=flat-square)
+![Spanish Native](https://img.shields.io/badge/Spanish-Native-059669?style=flat-square)
 
-## Experiencia profesional
+</div>
 
-| Periodo | Organización y aportaciones |
+---
+
+## About me
+
+- Software Development and Management Engineering student at Universidad Tecnológica de Aguascalientes.
+- Professional experience building enterprise applications, REST APIs, dashboards, and real-time systems.
+- Hands-on work across applied AI, ERP integrations, Web3, telemetry, and IoT prototypes.
+- I value clean architecture, useful documentation, measurable results, and products that work beyond the demo.
+
+## Professional experience
+
+| Period | Role and impact |
 | --- | --- |
-| **may. 2025 – may. 2026** | **Bosch México · Frontend / Full-Stack Developer, MFD Data Innovation Process.** Desarrollo con C#, .NET Core, Angular y SQL Server; migración de datos simulados a APIs REST reales; RBAC, inicio de sesión corporativo, dashboards bajo BCI Design System y notificaciones con SignalR. |
-| **ago. 2024 – dic. 2024** | **Centro Evaluador Colabora, S.C. · Proyecto full stack.** Plataforma para expedientes, validación documental, inscripción a certificaciones y seguimiento administrativo. |
-| **abr. 2024 – jul. 2024** | **CECADE México · Desarrollador web.** Portal corporativo y catálogo de cursos responsivo con PHP y Laravel. |
+| **May 2025 – May 2026** | **Bosch Mexico · Frontend / Full-Stack Developer, MFD Data Innovation Process.** Built solutions with C#, .NET Core, Angular, and SQL Server. Replaced simulated data with production REST API integrations and implemented RBAC, corporate authentication, BCI Design System dashboards, and SignalR notifications. |
+| **Aug 2024 – Dec 2024** | **Centro Evaluador Colabora, S.C. · Full-Stack Internship Project.** Developed a platform for applicant records, document validation, certification enrollment, and administrative tracking. |
+| **Apr 2024 – Jul 2024** | **CECADE Mexico · Web Developer.** Developed a responsive corporate portal and course catalog with PHP and Laravel. |
 
-## Proyectos destacados
+## Featured projects
 
-| Proyecto | Impacto y tecnologías |
+| Project | What it demonstrates |
 | --- | --- |
-| [**Sentinel Vision AI**](https://github.com/Polar2565/SentinelVisionAI) | Dashboard ejecutivo con agentes de IA, Angular, Node.js y Ollama. Obtuvo **83.1/100** y el lugar **13 de 111** en la Hackatón IA Agéntica 2026. |
-| [**LOBO I · CanSat**](https://github.com/Polar2565/LOBO-I-CanSat) | Sistema real de telemetría con Raspberry Pi Pico, sensores, LoRa, Node.js y Socket.IO. **Segundo lugar** en el concurso de Misiones Espaciales 2025. |
-| [**ClandBus ERP Integration Platform**](https://github.com/Polar2565/clandbus-erp-integration-dashboard) | Dashboard empresarial con Angular, ASP.NET Core y una capa segura de integración con Acumatica ERP. |
-| [**SOL RUNNER**](https://github.com/Polar2565/SOL-RUNNER) | Arena roguelite para navegador con Canvas, Phantom Wallet, Express y transacciones sobre Solana Devnet. |
-| [**TlalokFlix**](https://github.com/Polar2565/TlalokFlix) | Aplicación móvil de recomendación de películas por estado de ánimo con React Native, Expo, Node.js, SQL Server, TMDB y Ollama. |
+| [**Sentinel Vision AI**](https://github.com/Polar2565/SentinelVisionAI) | Executive dashboard with specialized AI agents, Angular, Node.js, and Ollama. Scored **83.1/100** and ranked **13th out of 111** at the 2026 Agentic AI Hackathon. |
+| [**LOBO I · CanSat**](https://github.com/Polar2565/LOBO-I-CanSat) | Real telemetry system using Raspberry Pi Pico, environmental sensors, LoRa, Node.js, and Socket.IO. Won **2nd place** in the 2025 Space Missions competition. |
+| [**ClandBus ERP Integration Platform**](https://github.com/Polar2565/clandbus-erp-integration-dashboard) | Enterprise dashboard built with Angular and ASP.NET Core, featuring a secure integration layer for Acumatica ERP. |
+| [**SOL RUNNER**](https://github.com/Polar2565/SOL-RUNNER) | Browser-based roguelite arena using Canvas, Express, Phantom Wallet, and transactions on Solana Devnet. |
+| [**TlalokFlix**](https://github.com/Polar2565/TlalokFlix) | Mood-based movie recommendation app built with React Native, Expo, Node.js, SQL Server, TMDB, and Ollama. |
 
-## Hackathons y retos tecnológicos
+## Awards and hackathons
 
-| Año | Evento | Proyecto / resultado |
+| Year | Event | Project or result |
 | --- | --- | --- |
-| **2026** | Hackatón IA Agéntica | **Sentinel Vision AI:** 83.1/100, calificación excelente y posición 13 de 111. |
-| **2026** | Solana LATAM Hackathon | Desarrollo de un proyecto dentro del ecosistema Solana; reconocimiento oficial de participación. |
-| **2026** | CodeCup | **Ghost Prism:** propuesta tecnológica para apoyar la seguridad de asistentes en eventos. |
-| **2025** | Concurso de Misiones Espaciales | **LOBO I CanSat:** segundo lugar en el Encuentro de Jóvenes en la Ingeniería y el Espacio. |
-| **2025** | Interledger Hackathon | **Chambitas:** marketplace comunitario de servicios con enfoque en Open Payments; reconocimiento oficial de participación. |
-| **2024** | HidroTech ICPC | **Gaia** y **Sistema de Pagos MIAA:** riego inteligente, monitoreo y soluciones digitales para la gestión del agua. |
-| **2024** | Venado Tech | **Artemisa:** propuesta IoT para monitoreo de ganado mediante dispositivos conectados y un dashboard. |
+| **2026** | Agentic AI Hackathon | **Sentinel Vision AI** — excellent evaluation, **83.1/100**, and **13th place out of 111 projects**. |
+| **2026** | Solana LATAM Hackathon | Built and presented a project within the Solana ecosystem; official participation recognition. |
+| **2026** | CodeCup | **Ghost Prism** — technology concept designed to support attendee safety at large events. |
+| **2025** | Space Missions Competition | **LOBO I CanSat** — **2nd place** at the Young People in Engineering and Space Meeting. |
+| **2025** | Interledger Hackathon | **Chambitas** — community services marketplace focused on Open Payments; official participation recognition. |
+| **2024** | ITA Cybersecurity Hackathon | Team achievement: **2nd place**. |
+| **2024** | HidroTech ICPC | **Gaia** and **MIAA Payment System** — smart irrigation, monitoring, and digital water-management solutions. |
+| **2024** | Venado Tech | **Artemisa** — IoT proposal for livestock monitoring through connected devices and a management dashboard. |
 
-## Certificaciones y formación
+## Certifications and technical training
 
-- **Solana LATAM Builders Program — Rust** · WayLearn Technologies, con apoyo de Solana Foundation · febrero–marzo de 2026.
-- **Inglés B2** · Oxford Placement Test · resultado global 69 · julio de 2024.
-- **IA y Agentforce** · formación técnica en inteligencia artificial aplicada y agentes dentro del ecosistema Salesforce · 2026.
-- Formación práctica en **Open Payments e Interledger** mediante desarrollo colaborativo en hackathon · 2025.
+- **Solana LATAM Builders Program — Rust** · WayLearn Technologies, supported by Solana Foundation · February–March 2026.
+- **English B2** · Oxford Placement Test · overall score: 69 · July 2024.
+- **AI and Agentforce** · technical training in applied AI and agent development within the Salesforce ecosystem · 2026.
+- Practical experience with **Open Payments and Interledger** through collaborative hackathon development · 2025.
 
-## Tecnologías
+## Technology stack
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black" alt="Solana">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,react,nodejs,dotnet,cs,rust,php,laravel,python,mysql,git,docker,linux&perline=8" alt="Technology stack" />
 </p>
 
 ```text
-Frontend        Angular · TypeScript · React Native · HTML · CSS · Canvas
-Backend         C# · .NET Core · Node.js · Express · PHP · Laravel · REST APIs
-Datos e IA      SQL Server · MySQL · Ollama · dashboards · agentes especializados
-Integraciones   Acumatica ERP · TMDB · SignalR · Solana · Open Payments
-Hardware        Raspberry Pi Pico · sensores ambientales · LoRa · telemetría
+Frontend       Angular · TypeScript · React Native · JavaScript · HTML · CSS · Canvas
+Backend        C# · .NET Core · Node.js · Express · PHP · Laravel · REST APIs
+Data & AI      SQL Server · MySQL · Ollama · AI agents · executive dashboards
+Integrations   Acumatica ERP · TMDB · SignalR · Solana · Open Payments
+Hardware       Raspberry Pi Pico · environmental sensors · LoRa · telemetry
 ```
 
-## Educación
+## Education
 
-- **Ingeniería en Desarrollo y Gestión de Software** · Universidad Tecnológica de Aguascalientes · 2023–2026.
-- **TSU en Tecnologías de la Información, área Desarrollo de Software Multiplataforma** · Universidad Tecnológica de Aguascalientes · concluido.
+- **B.Eng. in Software Development and Management** · Universidad Tecnológica de Aguascalientes · 2023–2026.
+- **Associate Degree in Information Technology, Multiplatform Software Development** · Universidad Tecnológica de Aguascalientes · completed.
 
-## Contacto
+## Languages
 
-Estoy abierto a colaborar en desarrollo de software, integraciones, inteligencia artificial aplicada y proyectos tecnológicos interdisciplinarios.
+| Language | Level |
+| --- | --- |
+| **Spanish** | Native |
+| **English** | B2 · Oxford Placement Test |
+| **French** | A2 |
 
-- LinkedIn: [Javier Solís](https://linkedin.com/in/javier-solis-23689b315/)
-- GitHub: [@Polar2565](https://github.com/Polar2565)
+## Let's connect
+
+I am open to opportunities and collaborations involving full-stack development, enterprise integrations, applied AI, Web3, and interdisciplinary technology projects.
+
+- [LinkedIn](https://linkedin.com/in/javier-solis-23689b315/)
+- [GitHub](https://github.com/Polar2565)
 
 ---
 
 <p align="center">
-  <em>Software útil, integración real y documentación clara.</em>
+  <em>Useful software · Real integrations · Clear documentation</em>
 </p>
