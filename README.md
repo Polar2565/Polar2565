@@ -52,7 +52,7 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 | **2026** | Tiendas 3B Hackathon | Participated in the corporate innovation challenge held on **March 21, 2026**; official participation certificate. |
 | **2025** | Space Missions Competition | **LOBO I CanSat** — **2nd place** at the Young People in Engineering and Space Meeting. |
 | **2025** | Interledger Hackathon | **Chambitas** — community services marketplace focused on Open Payments; official participation recognition. |
-| **2024** | ITA Cybersecurity Hackathon | Team achievement: **2nd place**. |
+| **2024** | Hackathon Ciberseguridad ICPC | **Presentación HidroTalent · Atenea** — team achievement: **2nd place**. |
 | **2024** | HidroTech ICPC | **Gaia** and **MIAA Payment System** — smart irrigation, monitoring, and digital water-management solutions. |
 | **2024** | Venado Tech | **Artemisa** — IoT proposal for livestock monitoring through connected devices and a management dashboard. |
 
