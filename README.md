@@ -19,10 +19,10 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 
 ## About me
 
-- Software Development and Management Engineering student at Universidad Tecnológica de Aguascalientes.
-- Professional experience building enterprise applications, REST APIs, dashboards, and real-time systems.
+- Software Developer and Full-Stack Engineer with professional experience building enterprise applications, REST APIs, dashboards, and real-time systems.
 - Hands-on work across applied AI, ERP integrations, Web3, telemetry, and IoT prototypes.
 - I value clean architecture, useful documentation, measurable results, and products that work beyond the demo.
+- Open to opportunities and collaborations in full-stack development, enterprise integrations, applied AI, Web3, and interdisciplinary technology projects.
 
 ## Professional experience
 
@@ -81,23 +81,8 @@ Hardware       Raspberry Pi Pico · environmental sensors · LoRa · telemetry
 
 ## Education
 
-- **B.Eng. in Software Development and Management** · Universidad Tecnológica de Aguascalientes · 2023–2026.
-- **Associate Degree in Information Technology, Multiplatform Software Development** · Universidad Tecnológica de Aguascalientes · completed.
-
-## Languages
-
-| Language | Level |
-| --- | --- |
-| **Spanish** | Native |
-| **English** | B2 · Oxford Placement Test |
-| **French** | A2 |
-
-## Let's connect
-
-I am open to opportunities and collaborations involving full-stack development, enterprise integrations, applied AI, Web3, and interdisciplinary technology projects.
-
-- [LinkedIn](https://linkedin.com/in/javier-solis-23689b315/)
-- [GitHub](https://github.com/Polar2565)
+- **Ingeniería en Desarrollo y Gestión de Software** · Universidad Tecnológica de Aguascalientes · January 2025 – expected August 2026.
+- **Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma** · Universidad Tecnológica de Aguascalientes · January 2023 – December 2024.
 
 ---
 
