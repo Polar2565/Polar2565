@@ -7,9 +7,9 @@
 
 # Javier Solís Martínez
 
-### Desarrollador de Software · Ingeniero Full-Stack
+### Ingeniero de Software · Consultor Técnico-Funcional de Acumatica ERP
 
-Construyo productos confiables que conectan **interfaces, APIs, datos, inteligencia artificial, hardware y servicios externos**.
+Convierto requerimientos de negocio en **configuraciones ERP, integraciones, APIs, flujos de datos y productos full-stack confiables**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Solís-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-solis-23689b315/)
 [![GitHub](https://img.shields.io/badge/GitHub-Polar2565-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polar2565)
@@ -24,15 +24,16 @@ Construyo productos confiables que conectan **interfaces, APIs, datos, inteligen
 
 ## Sobre mí
 
-- Desarrollador de Software e Ingeniero Full-Stack con experiencia profesional en aplicaciones empresariales, APIs REST, dashboards y sistemas en tiempo real.
-- Experiencia práctica en inteligencia artificial aplicada, integraciones ERP, Web3, telemetría y prototipos de IoT.
-- Valoro la arquitectura limpia, la documentación útil, los resultados medibles y los productos que funcionan más allá de una demostración.
-- Abierto a oportunidades y colaboraciones en desarrollo full-stack, integraciones empresariales, IA aplicada, Web3 y proyectos tecnológicos interdisciplinarios.
+- Consultor técnico-funcional de Acumatica ERP e Ingeniero de Software con experiencia en implementación, soporte y desarrollo de soluciones empresariales.
+- Traduzco requerimientos operativos y administrativos en configuraciones funcionales, integraciones, migraciones de datos y personalizaciones mantenibles.
+- Mi trabajo abarca análisis de procesos, configuración de ERP, validación de datos, resolución de incidencias, roles y permisos, facturación electrónica, APIs REST y desarrollo con C#, .NET, Acumatica Framework, Angular, Node.js y SQL Server.
+- También desarrollo proyectos de IA aplicada, Web3, Open Payments, telemetría e IoT, con énfasis en documentación útil, resultados medibles y soluciones que funcionan más allá de una demostración.
 
 ## Experiencia profesional
 
 | Periodo | Rol e impacto |
 | --- | --- |
+| **Mayo 2026 – actualidad** | **ClandBus · Consultor Técnico-Funcional Jr. de Acumatica ERP.** Apoyo implementaciones y operaciones de clientes mediante análisis de requerimientos, configuración funcional, migración y validación de datos, gestión de roles y permisos, procesos de facturación electrónica, diagnóstico de incidencias, documentación y personalizaciones e integraciones con C#/.NET y Acumatica Framework. |
 | **Mayo 2025 – mayo 2026** | **Bosch México · Desarrollador Frontend / Full-Stack, MFD Data Innovation Process.** Desarrollé soluciones con C#, .NET Core, Angular y SQL Server. Sustituí datos simulados por integraciones con APIs REST productivas e implementé RBAC, autenticación corporativa, dashboards basados en BCI Design System y notificaciones mediante SignalR. |
 | **Agosto 2024 – diciembre 2024** | **Centro Evaluador Colabora, S.C. · Proyecto de estadía Full-Stack.** Desarrollé una plataforma para expedientes de candidatos, validación documental, inscripción a procesos de certificación y seguimiento administrativo. |
 | **Abril 2024 – julio 2024** | **CECADE México · Desarrollador Web.** Desarrollé un portal corporativo responsivo y un catálogo de cursos con PHP y Laravel. |
