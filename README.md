@@ -7,9 +7,9 @@
 
 # Javier Solís Martínez
 
-### Software Developer · Full-Stack Engineer
+### Software Engineer · Acumatica ERP Technical-Functional Consultant
 
-I build reliable products that connect **interfaces, APIs, data, AI, hardware, and external services**.
+I turn business requirements into reliable **ERP configurations, integrations, APIs, data workflows, and full-stack products**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Solís-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-solis-23689b315/)
 [![GitHub](https://img.shields.io/badge/GitHub-Polar2565-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polar2565)
@@ -24,15 +24,16 @@ I build reliable products that connect **interfaces, APIs, data, AI, hardware, a
 
 ## About me
 
-- Software Developer and Full-Stack Engineer with professional experience building enterprise applications, REST APIs, dashboards, and real-time systems.
-- Hands-on work across applied AI, ERP integrations, Web3, telemetry, and IoT prototypes.
-- I value clean architecture, useful documentation, measurable results, and products that work beyond the demo.
-- Open to opportunities and collaborations in full-stack development, enterprise integrations, applied AI, Web3, and interdisciplinary technology projects.
+- Acumatica ERP Technical-Functional Consultant and Software Engineer with experience implementing, supporting, and developing enterprise solutions.
+- I translate operational and administrative requirements into functional configurations, integrations, data migrations, and maintainable customizations.
+- My work covers process analysis, ERP configuration, data validation, incident resolution, roles and permissions, electronic invoicing, REST APIs, and development with C#, .NET, Acumatica Framework, Angular, Node.js, and SQL Server.
+- I also build applied AI, Web3, Open Payments, telemetry, and IoT projects, with an emphasis on useful documentation, measurable results, and solutions that work beyond the demo.
 
 ## Professional experience
 
 | Period | Role and impact |
 | --- | --- |
+| **May 2026 – Present** | **ClandBus · Junior Acumatica ERP Technical-Functional Consultant.** Support Acumatica implementations and client operations through requirements analysis, functional configuration, data migration and validation, role and permission management, electronic invoicing processes, incident diagnosis, documentation, and C#/.NET customizations and integrations using the Acumatica Framework. |
 | **May 2025 – May 2026** | **Bosch Mexico · Frontend / Full-Stack Developer, MFD Data Innovation Process.** Built solutions with C#, .NET Core, Angular, and SQL Server. Replaced simulated data with production REST API integrations and implemented RBAC, corporate authentication, BCI Design System dashboards, and SignalR notifications. |
 | **Aug 2024 – Dec 2024** | **Centro Evaluador Colabora, S.C. · Full-Stack Internship Project.** Developed a platform for applicant records, document validation, certification enrollment, and administrative tracking. |
 | **Apr 2024 – Jul 2024** | **CECADE Mexico · Web Developer.** Developed a responsive corporate portal and course catalog with PHP and Laravel. |
