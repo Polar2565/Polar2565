@@ -9,7 +9,7 @@
 
 ### Software Engineer · Acumatica ERP Technical-Functional Consultant
 
-I turn business requirements into reliable **ERP configurations, integrations, APIs, data workflows, and full-stack products**.
+**Acumatica ERP consulting and full-stack development with C#, .NET, Angular, Node.js, and SQL Server.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier_Solís-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-solis-23689b315/)
 [![GitHub](https://img.shields.io/badge/GitHub-Polar2565-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Polar2565)
