@@ -24,10 +24,10 @@
 
 ## About me
 
-- Acumatica ERP Technical-Functional Consultant and Software Engineer with experience implementing, supporting, and developing enterprise solutions.
-- I translate operational and administrative requirements into functional configurations, integrations, data migrations, and maintainable customizations.
-- My work covers process analysis, ERP configuration, data validation, incident resolution, roles and permissions, electronic invoicing, REST APIs, and development with C#, .NET, Acumatica Framework, Angular, Node.js, and SQL Server.
-- I also build applied AI, Web3, Open Payments, telemetry, and IoT projects, with an emphasis on useful documentation, measurable results, and solutions that work beyond the demo.
+- I am a Software Engineer and currently work as a Junior Acumatica ERP Technical-Functional Consultant at ClandBus.
+- I take part in client implementations and support: requirements analysis, ERP module configuration, data preparation and validation, incident resolution, and documentation.
+- I develop customizations and integrations with C#, .NET, Acumatica Framework, and REST APIs. I also have experience with Angular, Node.js, and SQL Server.
+- Outside of work, I have developed AI, Web3, Open Payments, telemetry, and IoT projects for national and international competitions.
 
 ## Professional experience
 
